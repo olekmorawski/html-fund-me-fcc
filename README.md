@@ -1,2 +1,2 @@
-1. HTML/ Javascript setup
-   Ill use react.js later on.
+1. HTML/ Javascript setup for hardhat-fund-me-fcc.
+
